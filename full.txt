@@ -1,5 +1,5 @@
 pm
 bl
-dislike
+like_and_dislike
 noob
 bratstvo
